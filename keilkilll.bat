@@ -19,7 +19,7 @@ del *.axf /s
 del *.tra /s
 ::del *.dep /s	::整个工程的依赖文件
 del JLinkLog.txt /s
-del *.uvguix.* /s	::窗口布局文件，不同的PC，自动新建不同后缀名文件
+del *.uvguix.* /s	::窗口布局文件，PC端的用户名不同，会创建不同后缀名文件
 del *.iex /s
 del *.htm /s
 del *.sct /s
